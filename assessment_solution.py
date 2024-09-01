@@ -37,7 +37,7 @@ def calculate_factorial(n):
     else:
         return n * calculate_factorial(n - 1)
 
-# Function: apply_decorator
+
 def apply_decorator(func):
     """
     
