@@ -9,11 +9,11 @@ This repository contains solutions for a Python coding assessment that covers va
 
  # Clone the Repository
 
-git clone [git@github.com/Kiptoo16/phase-3-code-challenge-1.git]
+git clone [git@github.com:Kiptoo16/phase-3-code-challenge-1.git]
 cd your-repository
 Ensure Python is Installed
 
-Make sure Python 3.x is installed on your system. You can check this by running:
+Make sure Python3 is installed on your system. You can check this by running:
 
 bash
 Copy code
