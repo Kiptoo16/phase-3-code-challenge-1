@@ -7,9 +7,11 @@ This repository contains solutions for a Python coding assessment that covers va
 
 ## Setup and Running Instructions
 
- # Clone the Repository
+ # Clone the Repository   
+ 
+ [https://github.com/Kiptoo16/phase-3-code-challenge-1.git]
 
-git clone [git@github.com:Kiptoo16/phase-3-code-challenge-1.git]
+git clone []
 cd your-repository
 Ensure Python is Installed
 
